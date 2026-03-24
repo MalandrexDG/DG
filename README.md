@@ -1,4 +1,2 @@
 # DG
-Aula de Devops
-se é loko
-mnnnnn do céu
+Trabalho de DevOps
